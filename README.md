@@ -1,30 +1,9 @@
-# kelas-router
+# Vue Tugas 2
 
 > Implementasi Router untuk Vue
 
-## Build Setup
+## Tentang Vue Js
+Vue.js adalah suatu librari Javascript yang digunakan untuk membangun antar muka sebuah website yang interaktif. Library dari Vue.js difokuskan hanya pada view layer dan sangat mudah diimplementasikan dan diintegrasikan dengan library lain ataupun juga dengan project yang sudah ada sebelumnya. Untuk mempelajari Vue ini setidaknya kita sudah mengerti dasar-dasar HTML, CSS dan juga Javascript.
 
-``` bash
-# install dependencies
-npm install
-
-# serve with hot reload at localhost:8080
-npm run dev
-
-# build for production with minification
-npm run build
-
-# build for production and view the bundle analyzer report
-npm run build --report
-
-# run unit tests
-npm run unit
-
-# run e2e tests
-npm run e2e
-
-# run all tests
-npm test
-```
-
-For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
+## Tentang Tugas
+Tugas ini berisi studi kasus Vue Router. Menambahkan Router Baru. Dan memodifikasi tampilan
